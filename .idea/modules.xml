@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/oopsInJava.iml" filepath="$PROJECT_DIR$/oopsInJava.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/oopsTasks.iml" filepath="$PROJECT_DIR$/oopsTasks.iml" />
+>>>>>>> d333ad6 (oops in java)
     </modules>
   </component>
 </project>
